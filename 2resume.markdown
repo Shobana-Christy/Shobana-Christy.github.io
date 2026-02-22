@@ -34,7 +34,7 @@ title: Resume
 
   <h2>Technical Skills</h2>
   <ul>
-    <li><strong>Languages:</strong> JavaScript, Java (learning), HTML, CSS</li>
+    <li><strong>Languages:</strong> JavaScript, Java , HTML, CSS</li>
     <li><strong>Frameworks:</strong> React, Jest</li>
     <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
   </ul>
@@ -56,19 +56,29 @@ title: Resume
      <a href="https://github.com/your-memory-nest-repo" target="_blank">GitHub Repo</a> |
      <a href="https://memory-nest.netlify.app/"  target="_blank">Memory Nest</a>
   </p>
+
+  <h2> Operations & Project Coordination</h2>
+  <h3>Household Operations Manager | Independent Project       Management</h3>
+ <p><em>January 2007 - Present</em> </p>
+ <ul>
+   <li>Managed complex household operations including scheduling, logistics, and multi-stakeholder coordination across education, healthcare, and extracurricular systems.</li>
+   <li>Built and maintained structured calendars and tracking systems to coordinate appointments, deadlines, and recurring workflows.</li>
+   <li>Prioritized competing tasks under dynamic constraints while maintaining high reliability and on-time execution.</li>
+   <li>Developed contingency plans and rapid problem-resolution processes in high-pressure environments.</li>
+  </ul>
   
 
   <h2>Volunteer Experience</h2>
 
   <h3>Volunteer Artist — YMCA Senior Citizen Program</h3>
-  <p><em>2024 – Present</em></p>
+  <p><em>2018 – 2020</em></p>
   <ul>
     <li>Donated original paintings for fundraising events supporting senior programs</li>
     <li>Collaborated with event organizers to align artwork with event themes</li>
   </ul>
 
   <h3>Event Volunteer — Arthritis Foundation, Jingle Bell Run</h3>
-  <p><em>2024</em></p>
+  <p><em>2025</em></p>
   <ul>
     <li>Assisted participants with post‑race photos and event navigation</li>
     <li>Supported event operations through coordination and problem‑solving</li>
@@ -78,7 +88,7 @@ title: Resume
   <p>
     <strong>LaunchCode</strong> — Web Development Program (JavaScript, React, HTML, CSS)<br>
     <strong>Bachelor of Commerce (B.Com)</strong><br>
-    Manonmaniam Sundaranar University, India
+    Manonmaniam Sundaranar University, Tirunelveli, TamilNadu, India
   </p>
 
 </section>

@@ -1,0 +1,191 @@
+/* -----------------------------------
+   GLOBAL STYLES
+----------------------------------- */
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #4a90e2;
+  margin-top: 0;
+}
+
+section {
+  max-width: 1100px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+/* -----------------------------------
+   HERO SECTION (HOME + ABOUT)
+----------------------------------- */
+
+.hero-card {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  background: white;
+  padding: 35px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.hero-image img {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-text h1 {
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+
+.hero-text h2 {
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.hero-text p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* -----------------------------------
+   BUTTONS
+----------------------------------- */
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #4a90e2;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: 0.2s ease-in-out;
+}
+
+.btn:hover {
+  background: #357ABD;
+}
+
+.btn.outline {
+  background: transparent;
+  border: 2px solid #4a90e2;
+  color: #4a90e2;
+}
+
+.btn.outline:hover {
+  background: #4a90e2;
+  color: white;
+}
+
+/* -----------------------------------
+   PROJECTS PAGE
+----------------------------------- */
+
+.projects h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.project-card {
+  display: flex;
+  gap: 25px;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 35px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.project-image {
+  width: 40%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.project-content {
+  width: 60%;
+}
+
+.project-content ul {
+  padding-left: 20px;
+}
+
+.project-links {
+  margin-top: 15px;
+}
+
+/* -----------------------------------
+   RESUME PAGE
+----------------------------------- */
+
+.resume {
+  background: white;
+  padding: 35px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.resume p, .resume li {
+  line-height: 1.6;
+}
+
+.resume ul {
+  padding-left: 20px;
+}
+
+/* -----------------------------------
+   CONTACT PAGE
+----------------------------------- */
+
+.contact-card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  max-width: 700px;
+  margin: auto;
+}
+
+.contact-line {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+}
+
+/* -----------------------------------
+   RESPONSIVE DESIGN
+----------------------------------- */
+
+@media (max-width: 768px) {
+
+  .hero-card,
+  .project-card {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-image img,
+  .project-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .project-content,
+  .hero-text {
+    width: 100%;
+  }
+}

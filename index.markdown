@@ -1,7 +1,6 @@
-
 ---
-<!-- layout: default
-title: Home -->
+layout: default
+# title: About
 ---
 
 <section class="home">
@@ -17,22 +16,18 @@ title: Home -->
       <h2>Junior Software Developer</h2>
 
       <p>
-        I'm a creative and detail‑oriented junior developer transitioning from a commerce
-        background into software development. I enjoy building user‑friendly, responsive
-        web applications and combining creativity with problem‑solving.
+       I'm a creative and detail‑oriented junior developer who enjoys building
+        user‑friendly, responsive web applications. I combine creativity with
+        problem‑solving to create clean, accessible digital experiences.
+
       </p>
 
       <p>
-        I develop responsive, user‑friendly applications using
-        <strong>JavaScript, React, HTML, CSS, and Jest</strong>, and I’m currently
+       Skilled in
+        <strong>JavaScript, React, HTML, CSS, and Jest</strong>, and  currently
         expanding my skills into <strong>Java, SQL, and backend development</strong>.
       </p>
 
-      <p>
-        Actively seeking a <strong>Junior Software Developer</strong> role where I can
-        contribute to real‑world projects, continue learning, and grow within a
-        collaborative engineering team.
-      </p>
 
       <div class="cta-buttons">
         <a href="/resume" class="btn outline">View Resume</a>
@@ -41,4 +36,4 @@ title: Home -->
 
   </div>
 
-</section>
+</section>  
