@@ -29,9 +29,7 @@ layout: default
       </p>
 
 
-      <div class="cta-buttons">
-        <a href="/resume" class="btn outline">View Resume</a>
-      </div>
+      
     </div>
 
   </div>
